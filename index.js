@@ -6,4 +6,3 @@ const removeFirst = ["Milo", "Otis", "Garfield"];
 
 
 append.unshift=["Odie" ];
-
